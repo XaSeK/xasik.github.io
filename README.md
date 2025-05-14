@@ -23,7 +23,7 @@ This site is built to:
 
 Feel free to explore the source code or visit the live site:
 
-🔗 **Live Site**: [https://xasik.github.io](https://xasek.github.io)
+🔗 **Live Site**: [https://xasek.github.io](https://xasek.github.io)
 
 ---
 
